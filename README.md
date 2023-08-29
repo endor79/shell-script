@@ -1,10 +1,10 @@
 # shell-script
-shell-script.sh isimli dosyayı /usr/bin/ dizinine taşı.
+shell-script isimli dosyayı /usr/bin/ dizinine taşı.
 
-shell-script-code.sh dosyası ise /opt dizininde durabilir. Bu dosya menulibre için.
+shell-script-code dosyası ise /opt dizininde durabilir. Bu dosya menulibre için.
 
 # Kullanım
-'shell-script.sh "i2prouter" ' #i2prouter gibi paketleri menulibre'ye ekleyebilirsiniz bu şekilde.
+'shell-script "i2prouter" ' #i2prouter gibi paketleri menulibre'ye ekleyebilirsiniz bu şekilde.
 
 ![menulibre_command](https://github.com/endor79/shell-script/assets/105305285/a018879b-6d2b-447c-b69e-93cb20bbbda3)
 
