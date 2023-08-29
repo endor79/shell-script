@@ -1,0 +1,3 @@
+#! /usr/bin/fish
+
+shell-script "cat /usr/bin/shell-script"
